@@ -1,0 +1,68 @@
+baseURL: "https://tmak2002.dev"
+title: Torben Kahnert
+paginate: 5
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+
+
+menu:
+  main:
+    - name: Blog
+      url: blog/
+      weight: 1
+    - name: Projects
+      url: projects/
+      weight: 2
+    - name: About
+      url: about/
+      weight: 3
+    - name: Impress
+      url: impress/
+      weight: 4
+
+outputs:
+    home:
+        - HTML
+        - RSS
+
+params:
+    env: production
+    disableFingerprinting: true
+    description: "Torben Kahnert, Android and Linux Enthusiast from Germany."
+    author: Torben Kahnert
+
+    defaultTheme: auto
+    ShowShareButtons: false
+    ShowReadingTime: true
+    # disableSpecial1stPost: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: true
+    ShowToc: true
+    # comments: false
+    images: ["papermod-cover.png"]
+
+    homeInfoParams:
+        Title: "Welcome on my site!"
+        Content: >
+          I am Torben a 20 years old sysadmin from Germany.
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/tmak2002"
+        - name: matrix
+          url: "https://matrix.to/#/@torben:hrhe.org"
+        - name: email
+          url: mailto:torben@tmak2002.dev
+        - name: key
+          url: "torben-publickey.asc"
+        - name: rss
+          url: "index.xml"
