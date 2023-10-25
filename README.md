@@ -18,3 +18,9 @@ hugo server --buildDrafts
 ```
 git submodule update --remote --merge
 ```
+
+## License
+
+This project is licensed under the **MIT license**.
+
+See [LICENSE](LICENSE) for more information.
