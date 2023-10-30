@@ -11,6 +11,9 @@ buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
 
+minify:
+    disableXML: true
+    minifyOutput: true
 
 menu:
   main:
