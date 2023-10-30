@@ -49,18 +49,18 @@ Here I share my GrapheneOS setup for my Google Pixel 6.
 - default apps
 ### Main
 - default apps
-- [Obtainium](https://github.com/ImranR98/Obtainium)
-- [Aegis](https://github.com/beemdevelopment/Aegis)
-- [DAVx⁵](https://github.com/bitfireAT/davx5-ose)
-- [Element](https://github.com/vector-im/element-android)
-- [MyBrain](https://github.com/mhss1/MyBrain)
-- [K-9 Mail](https://github.com/thundernest/k-9)
-- [KeePassDX](https://github.com/Kunzisoft/KeePassDX)
-- [Molly Foss](https://github.com/mollyim/mollyim-android)
-- [Organic Maps](https://github.com/organicmaps/organicmaps)
-- [AnkiDroid](https://github.com/ankidroid/Anki-Android)
+- [Obtainium](https://github.com/ImranR98/Obtainium) ~ Get Android App Updates Directly From the Source.
+- [Aegis](https://github.com/beemdevelopment/Aegis) ~ 2FA manager
+- [DAVx⁵](https://github.com/bitfireAT/davx5-ose) ~ CalDAV/CardDAV/WebDAV sync
+- [Element](https://github.com/vector-im/element-android) ~ Matrix Client
+- [MyBrain](https://github.com/mhss1/MyBrain) ~ Tasks, Notes, Calendar, Diary and Bookmarks
+- [K-9 Mail](https://github.com/thundernest/k-9) ~ Mail client
+- [KeePassDX](https://github.com/Kunzisoft/KeePassDX) ~ Password manager
+- [Molly Foss](https://github.com/mollyim/mollyim-android) ~ Hardened Signal client
+- [Organic Maps](https://github.com/organicmaps/organicmaps) ~ Maps
+- [AnkiDroid](https://github.com/ankidroid/Anki-Android) ~ Flashcards App
 ### Google
 - default apps
-- [Clash Royale](https://play.google.com/store/apps/details?id=com.supercell.clashroyale)
-- [N26](https://play.google.com/store/apps/details?id=de.number26.android)
+- [Clash Royale](https://play.google.com/store/apps/details?id=com.supercell.clashroyale) ~ Game
+- [N26](https://play.google.com/store/apps/details?id=de.number26.android) ~ Banking
 - [PayPal](https://play.google.com/store/apps/details?id=com.paypal.android.p2pmobile)
