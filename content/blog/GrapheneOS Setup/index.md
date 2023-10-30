@@ -53,7 +53,7 @@ Here I share my GrapheneOS setup for my Google Pixel 6.
 - [Aegis](https://github.com/beemdevelopment/Aegis)
 - [DAVx⁵](https://github.com/bitfireAT/davx5-ose)
 - [Element](https://github.com/vector-im/element-android)
-- [Etar](https://github.com/Etar-Group/Etar-Calendar)
+- [MyBrain](https://github.com/mhss1/MyBrain)
 - [K-9 Mail](https://github.com/thundernest/k-9)
 - [KeePassDX](https://github.com/Kunzisoft/KeePassDX)
 - [Molly Foss](https://github.com/mollyim/mollyim-android)
