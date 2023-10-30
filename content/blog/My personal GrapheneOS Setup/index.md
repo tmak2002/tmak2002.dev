@@ -1,5 +1,5 @@
 ---
-title: "GrapheneOS Setup"
+title: "My personal GrapheneOS Setup"
 date: 2023-03-31T17:14:11Z
 description: "Here I share my GrapheneOS setup."
 tags: ["GrapheneOS", "GrapheneOS Setup", "Pixel 6"]
