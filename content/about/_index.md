@@ -5,7 +5,7 @@ showtoc: false
 ---
 # Who I am
 
-Hi, I'm Torben, a 21-year-old sysadmin from Germany.
+Hi, I'm Torben, a 21-year-old sysadmin and privacy activist from Germany.
 
 # What I do
 
