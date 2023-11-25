@@ -1,7 +1,7 @@
 baseURL: "https://tmak2002.dev"
 title: Torben Kahnert
 paginate: 5
-theme: PaperMod
+theme: ["PaperMod", "hugo-redirect"]
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
