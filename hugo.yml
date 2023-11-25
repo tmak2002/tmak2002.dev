@@ -66,6 +66,6 @@ params:
         - name: email
           url: mailto:torben@tmak2002.dev
         - name: key
-          url: "torben-publickey.asc"
+          url: "pub-key.txt"
         - name: rss
           url: "index.xml"
