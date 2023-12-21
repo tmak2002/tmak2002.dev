@@ -69,3 +69,19 @@ params:
           url: "pub-key.txt"
         - name: rss
           url: "index.xml"
+
+markup:
+  tableOfContents:
+    endLevel: 6
+  highlight:
+    anchorLineNos: false
+    codeFences: true
+    guessSyntax: true
+    hl_Lines: ""
+    hl_inline: false
+    lineAnchors: ""
+    lineNoStart: 1
+    noClasses: false
+    noHl: false
+    tabWidth: 4
+    style: dracula
