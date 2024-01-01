@@ -6,6 +6,10 @@
 ## Prerequisites
 - [hugo](https://gohugo.io/)
 ## Usage
+### clone theme
+```
+git submodule update --init --recursive
+```
 #### Create new content
 ```
 hugo new content <SECTIONNAME>/<FILENAME>.<FORMAT>
