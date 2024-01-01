@@ -12,8 +12,8 @@ Here I share my GrapheneOS setup for my Google Pixel 6.
 # Install GrapheneOS
 - [Web install guide](https://grapheneos.org/install/web)
 - [CLI install guide](https://grapheneos.org/install/cli)
-# How to set up the google account
-- [How to Create and Use a Google Account Anonymously on GrapheneOS](https://cascaderainfall.lol/how-to-anonymous-google-account/#public-wi-fi)
+# Useful resources
+- [How to Create and Use a Google Account Anonymously on GrapheneOS](https://cascaderainfall.lol/how-to-anonymous-google-account/)
 # Settings
 ### Network & internet
 - Internet > Carrier Settings > Allow 2G | disabled
@@ -66,3 +66,7 @@ Here I share my GrapheneOS setup for my Google Pixel 6.
 - [Clash Royale](https://play.google.com/store/apps/details?id=com.supercell.clashroyale) ~ Game
 - [N26](https://play.google.com/store/apps/details?id=de.number26.android) ~ Banking
 - [PayPal](https://play.google.com/store/apps/details?id=com.paypal.android.p2pmobile)
+
+# Credits
+- [https://discuss.grapheneos.org/d/3677-share-your-graphene-os-setup-here-is-mine](https://discuss.grapheneos.org/d/3677-share-your-graphene-os-setup-here-is-mine)
+- [https://github.com/Scrut1ny/GrapheneOS-Guide](https://github.com/Scrut1ny/GrapheneOS-Guide) and [https://github.com/ivoarch/GrapheneOS-Setup](https://github.com/ivoarch/GrapheneOS-Setup)
