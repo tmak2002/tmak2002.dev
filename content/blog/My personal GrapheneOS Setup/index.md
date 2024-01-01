@@ -14,6 +14,9 @@ Here I share my GrapheneOS setup for my Google Pixel 6.
 - [CLI install guide](https://grapheneos.org/install/cli)
 # Useful resources
 - [How to Create and Use a Google Account Anonymously on GrapheneOS](https://cascaderainfall.lol/how-to-anonymous-google-account/)
+- [Battery Management - Power Management For Power Users](https://akc3n.page/posts/battery-management/)
+- [Battery Guide Discussion](https://discuss.grapheneos.org/d/7323-battery-guide)
+
 # Settings
 ### Network & internet
 - Internet > Carrier Settings > Allow 2G | disabled
