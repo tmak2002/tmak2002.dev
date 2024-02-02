@@ -12,6 +12,7 @@ Hi, I'm Torben, a 21-year-old sysadmin and privacy activist from Germany.
 * My interests include:
     * Computer science
     * OSINT
+    * Gaming
     * Anime and manga
     * Movies and series
     * Books
