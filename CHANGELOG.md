@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.1](https://github.com/tmak2002/tmak2002.dev/compare/v2.1.0...v2.1.1) (2024-02-15)
+
+
+### Bug Fixes
+
+* **roadmap:** rename Roadmap.md to ROADMAP.md ([a69ca37](https://github.com/tmak2002/tmak2002.dev/commit/a69ca37ce863927b8ff5b8c80821e48fa12fa310))
+
 ## [2.1.0](https://github.com/tmak2002/tmak2002.dev/compare/v2.0.3...v2.1.0) (2024-02-15)
 
 
