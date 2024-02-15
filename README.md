@@ -27,4 +27,4 @@ git submodule update --remote --merge
 
 This project is licensed under the **MIT license**.
 
-See [LICENSE](LICENSE) for more information.
+See [LICENSE](LICENSE.md) for more information.
