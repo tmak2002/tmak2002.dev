@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.1](https://github.com/tmak2002/tmak2002.dev/compare/v2.2.0...v2.2.1) (2024-02-15)
+
+
+### Bug Fixes
+
+* **Ci:** fix that's deploy run on other branches than main ([959cb1a](https://github.com/tmak2002/tmak2002.dev/commit/959cb1a6a5741b75e5fbe9e480910bb06a0fa5af))
+
 ## [2.2.0](https://github.com/tmak2002/tmak2002.dev/compare/v2.1.1...v2.2.0) (2024-02-15)
 
 
