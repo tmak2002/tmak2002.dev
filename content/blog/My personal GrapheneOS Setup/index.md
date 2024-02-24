@@ -44,10 +44,11 @@ Here I share my GrapheneOS setup for my Google Pixel 6.
 - Increase touch sensitivity | enable if you have screen protector
 ### Security
 - Auto reboot | 12 hours
-- Native code debugging | enable if needed
+- Automatic exploit protection compatibility mode | enabled
+- Native code debugging | blocked by default
 - Scramble PIN input layout | enabled
-### 
-
+### Privacy
+- Allow Sensors permission by apps default | disabled
 
 # Apps per profile
 ### Owner
@@ -58,7 +59,6 @@ Here I share my GrapheneOS setup for my Google Pixel 6.
 - [Aegis](https://github.com/beemdevelopment/Aegis) ~ 2FA manager
 - [DAVx⁵](https://github.com/bitfireAT/davx5-ose) ~ CalDAV/CardDAV/WebDAV sync
 - [Element](https://github.com/vector-im/element-android) ~ Matrix Client
-- [MyBrain](https://github.com/mhss1/MyBrain) ~ Tasks, Notes, Calendar, Diary and Bookmarks
 - [K-9 Mail](https://github.com/thundernest/k-9) ~ Mail client
 - [KeePassDX](https://github.com/Kunzisoft/KeePassDX) ~ Password manager
 - [Molly Foss](https://github.com/mollyim/mollyim-android) ~ Hardened Signal client
