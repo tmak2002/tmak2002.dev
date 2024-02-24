@@ -64,6 +64,7 @@ Here I share my GrapheneOS setup for my Google Pixel 6.
 - [Molly Foss](https://github.com/mollyim/mollyim-android) ~ Hardened Signal client
 - [Organic Maps](https://github.com/organicmaps/organicmaps) ~ Maps
 - [AnkiDroid](https://github.com/ankidroid/Anki-Android) ~ Flashcards App
+- [Etar](https://github.com/Etar-Group/Etar-Calendar) - Calendar
 ### Google
 - default apps
 - [Clash Royale](https://play.google.com/store/apps/details?id=com.supercell.clashroyale) ~ Game
