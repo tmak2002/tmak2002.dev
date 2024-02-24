@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.3.0](https://github.com/tmak2002/tmak2002.dev/compare/v2.2.1...v2.3.0) (2024-02-24)
+
+
+### Features
+
+* **blog:** update grapheneos post" ([5adae14](https://github.com/tmak2002/tmak2002.dev/commit/5adae1401c0efc271470133d2333d0e9114e92e5))
+
+
+### Bug Fixes
+
+* **blog:** add Etar back ([a1fadf9](https://github.com/tmak2002/tmak2002.dev/commit/a1fadf992bca7f7354243c7572aab4e2ea64256d))
+
 ## [2.2.1](https://github.com/tmak2002/tmak2002.dev/compare/v2.2.0...v2.2.1) (2024-02-15)
 
 
