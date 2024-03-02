@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.4.0](https://github.com/tmak2002/tmak2002.dev/compare/v2.3.0...v2.4.0) (2024-03-02)
+
+
+### Features
+
+* add justfile ([cc67507](https://github.com/tmak2002/tmak2002.dev/commit/cc67507eb68aec8a7b62212788cffc9116368369))
+
 ## [2.3.0](https://github.com/tmak2002/tmak2002.dev/compare/v2.2.1...v2.3.0) (2024-02-24)
 
 
