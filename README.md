@@ -6,25 +6,7 @@
 ## Prerequisites
 - [hugo](https://gohugo.io/)
 ## Usage
-### clone theme
 ```
-git submodule update --init --recursive
-```
-#### Create new content
-```
-hugo new content <SECTIONNAME>/<FILENAME>.<FORMAT>
-```
-#### Run development server
-```
-hugo server --buildDrafts
-```
-#### Update theme
-```
-git submodule update --remote --merge
+just -l
 ```
 
-## License
-
-This project is licensed under the **MIT license**.
-
-See [LICENSE](LICENSE.md) for more information.
