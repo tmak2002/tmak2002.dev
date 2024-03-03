@@ -67,6 +67,8 @@ params:
           url: mailto:torben@tmak2002.dev
         - name: key
           url: "pub-key.txt"
+        - name: buymeacoffee
+          url: https://liberapay.com/tmak2002/
         - name: rss
           url: "index.xml"
 
