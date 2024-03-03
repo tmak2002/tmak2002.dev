@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.5.0](https://github.com/tmak2002/tmak2002.dev/compare/v2.4.0...v2.5.0) (2024-03-03)
+
+
+### Features
+
+* add liberapay ([118bae3](https://github.com/tmak2002/tmak2002.dev/commit/118bae37bfbed5bc6d1f04b78eb90e76aafe52cb))
+
 ## [2.4.0](https://github.com/tmak2002/tmak2002.dev/compare/v2.3.0...v2.4.0) (2024-03-02)
 
 
