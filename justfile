@@ -1,3 +1,7 @@
+# list recipes
+@default:
+   just --list
+
 alias t := theme
 alias c := content
 alias d := dev
