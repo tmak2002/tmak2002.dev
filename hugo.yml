@@ -15,21 +15,6 @@ minify:
     disableXML: true
     minifyOutput: true
 
-menu:
-  main:
-    - name: Blog
-      url: blog/
-      weight: 1
-    - name: Projects
-      url: projects/
-      weight: 2
-    - name: About
-      url: about/
-      weight: 3
-    - name: Impress
-      url: impress/
-      weight: 4
-
 outputs:
     home:
         - HTML
@@ -87,3 +72,43 @@ markup:
     noHl: false
     tabWidth: 4
     style: dracula
+
+DefaultContentLanguage: en
+languages:
+  en:
+    languageCode: "en-us"
+    contentDir: "content/en"
+    weight: 1
+    menu:
+      main:
+        - name: Blog
+          url: blog/
+          weight: 1
+        - name: Projects
+          url: projects/
+          weight: 2
+        - name: About
+          url: about/
+          weight: 3
+        - name: Impress
+          url: impress/
+          weight: 4
+
+  de:
+    languageCode: "de"
+    contentDir: "content/de"
+    weight: 1
+    menu:
+      main:
+        - name: Blog
+          url: blog/
+          weight: 1
+        - name: Projekte
+          url: projects/
+          weight: 2
+        - name: Über mich
+          url: about/
+          weight: 3
+        - name: Impressum
+          url: impress/
+          weight: 4
