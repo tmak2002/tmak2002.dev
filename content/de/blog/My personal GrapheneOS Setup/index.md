@@ -1,23 +1,23 @@
 ---
-title: "My personal GrapheneOS Setup"
+title: "Mein persönliches GrapheneOS-Setup."
 date: 2023-03-31T17:14:11Z
-description: "Here I share my GrapheneOS setup."
+description: "Hier teile ich mein GrapheneOS-Setup."
 tags: ["GrapheneOS", "GrapheneOS Setup", "Pixel 6"]
 cover:
     image: "grapheneos.webp"
     alt: "GrapheneOS Logo"
 ---
-Here I share my GrapheneOS setup for my Google Pixel 6.
+Hier teile ich mein GrapheneOS-Setup für mein Google Pixel 6.
  <!--more-->
-# Install GrapheneOS
-- [Web install guide](https://grapheneos.org/install/web)
-- [CLI install guide](https://grapheneos.org/install/cli)
-# Useful resources
-- [How to Create and Use a Google Account Anonymously on GrapheneOS](https://cascaderainfall.lol/how-to-anonymous-google-account/)
-- [Battery Management - Power Management For Power Users](https://akc3n.page/posts/battery-management/)
-- [Battery Guide Discussion](https://discuss.grapheneos.org/d/7323-battery-guide)
+# Installiere GrapheneOS
+- [Web-Installationsanleitung](https://grapheneos.org/install/web)
+- [CLI-Installationsanleitung](https://grapheneos.org/install/cli)
+# Nützliche Ressourcen
+- [Wie man ein Google-Konto anonym auf GrapheneOS erstellt und verwendet](https://cascaderainfall.lol/how-to-anonymous-google-account/)
+- [Batteriemanagement - Energiemanagement für Power-User](https://akc3n.page/posts/battery-management/)
+- [Diskussion zum Batterie-Guide](https://discuss.grapheneos.org/d/7323-battery-guide)
 
-# Settings
+# Einstellungen
 ### Network & internet
 - Internet > Carrier Settings > Allow 2G | disabled
 - Internet > Network preferences > Turn off Wi-Fi automatically | 30 seconds
@@ -50,7 +50,7 @@ Here I share my GrapheneOS setup for my Google Pixel 6.
 ### Privacy
 - Allow Sensors permission by apps default | disabled
 
-# Apps per profile
+# Apps pro Profil
 ### Owner
 - default apps
 ### Main

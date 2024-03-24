@@ -1,11 +1,8 @@
 ---
-title: "Impress"
+title: "Impressum"
 showtoc: false
 robotsNoIndex: true
 ---
-
-This page is currently only available in German.
-
 # Angaben gemäß § 5 TMG
 Torben Kahnert  
 Königsberger Straße 35  

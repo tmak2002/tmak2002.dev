@@ -1,24 +1,22 @@
 ---
-title: "About Me"
+title: "Über mich"
 date: 2020-11-06T15:39:20+01:00
 showtoc: false
 ---
-# Who I am
+# Wer ich bin
+Hallo, ich bin Torben, ein 21-jähriger Systemadministrator und Datenschutzaktivist aus Deutschland.
 
-Hi, I'm Torben, a 21-year-old sysadmin and privacy activist from Germany.
-
-# What I do
-
-* My interests include:
-    * Computer science
-    * OSINT
+# Was ich mache
+* Meine Interessen umfassen:
+    * Informatik
+    * OSINT (Open Source Intelligence)
     * Gaming
-    * Anime and manga
-    * Movies and series
-    * Books
-    * Hiking
+    * Anime und Manga
+    * Filme und Serien
+    * Bücher
+    * Wandern
 
-# My goals
+# Meine Ziele
+* Ich möchte als Systemadministrator arbeiten.
+* Außerdem möchte ich Japanisch lernen und eines Tages in Japan leben.
 
-* I want to work as a system administrator.
-* I also want to learn Japanese and live in Japan someday.
