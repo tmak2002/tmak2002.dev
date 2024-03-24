@@ -23,7 +23,7 @@ outputs:
 params:
     env: production
     disableFingerprinting: true
-    description: "Torben Kahnert, Android and Linux Enthusiast from Germany."
+      # description: "Torben Kahnert, Android and Linux Enthusiast from Germany."
     author: Torben Kahnert
 
     defaultTheme: auto
@@ -93,6 +93,11 @@ languages:
         - name: Impress
           url: impress/
           weight: 4
+    params:
+      homeInfoParams:
+        Title: "Welcome on my site!"
+        Content: >
+          I am Torben a 21 years old sysadmin and privacy activist from Germany.
 
   de:
     languageCode: "de"
@@ -112,3 +117,8 @@ languages:
         - name: Impressum
           url: impress/
           weight: 4
+    params:
+      homeInfoParams:
+        Title: "Willkommen auf meiner Website!"
+        Content: >
+          Ich bin Torben ein 21 Jahre alter sysadmin und privacy activist aus Germany.
