@@ -1,18 +1,18 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Contact: mailto:security@tmak2002.dev
-Expires: 2024-11-25T11:00:00.000Z
+Contact: mailto: security@tmak2002.dev
+Expires: 2025-03-30T22:00:00.000Z
 Encryption: https://tmak2002.dev/pub-key.txt
 Preferred-Languages: de, en
 Canonical: https://tmak2002.dev/.well-known/security.txt
 
 -----BEGIN PGP SIGNATURE-----
 
-iNUEARYKAH0WIQSC5JKj9QCFKFKGL7GmelhXA7oYIwUCZWHvOV8UgAAAAAAuAChp
-c3N1ZXItZnByQG5vdGF0aW9ucy5vcGVucGdwLmZpZnRoaG9yc2VtYW4ubmV0ODJF
-NDkyQTNGNTAwODUyODUyODYyRkIxQTY3QTU4NTcwM0JBMTgyMwAKCRCmelhXA7oY
-I9zBAP4zpO3GWFwT9rWPSZM+uI1+VYS7ocroMrx7tKU9JivDzAEAtUXmn92DvENz
-w6uGZAoeyFouNZG8Uee9WCrpddquSw4=
-=xUP4
+iNUEARYKAH0WIQRo7UCzSECHr3vx/8N0byYDbv0uQwUCZgAj0V8UgAAAAAAuAChp
+c3N1ZXItZnByQG5vdGF0aW9ucy5vcGVucGdwLmZpZnRoaG9yc2VtYW4ubmV0NjhF
+RDQwQjM0ODQwODdBRjdCRjFGRkMzNzQ2RjI2MDM2RUZEMkU0MwAKCRB0byYDbv0u
+Q43QAQC/IUjtiVQ7Vle5TC7NIfrxqdWiRwV0e/oT19WzBQbdUQD9ED3IiisHT1BI
+7GbQmgx7hRvZTazsBkbrsahXL62upQo=
+=lkBN
 -----END PGP SIGNATURE-----
