@@ -58,7 +58,6 @@ Hier teile ich mein GrapheneOS-Setup für mein Google Pixel 6.
 - [Obtainium](https://github.com/ImranR98/Obtainium) ~ Get Android App Updates Directly From the Source.
 - [Aegis](https://github.com/beemdevelopment/Aegis) ~ 2FA manager
 - [DAVx⁵](https://github.com/bitfireAT/davx5-ose) ~ CalDAV/CardDAV/WebDAV sync
-- [Element](https://github.com/vector-im/element-android) ~ Matrix Client
 - [K-9 Mail](https://github.com/thundernest/k-9) ~ Mail client
 - [KeePassDX](https://github.com/Kunzisoft/KeePassDX) ~ Password manager
 - [Molly Foss](https://github.com/mollyim/mollyim-android) ~ Hardened Signal client
