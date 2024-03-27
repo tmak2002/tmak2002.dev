@@ -14,7 +14,7 @@ content:
     hugo new content
 
 dev:
-    hugo server --buildDrafts
+    hugo server --gc --minify --buildDrafts
 
 build:
     hugo
