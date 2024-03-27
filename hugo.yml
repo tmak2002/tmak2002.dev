@@ -90,8 +90,8 @@ languages:
         - name: About
           url: about/
           weight: 3
-        - name: Impress
-          url: impress/
+        - name: Legal
+          url: legal/
           weight: 4
     params:
       homeInfoParams:
@@ -114,8 +114,8 @@ languages:
         - name: Über mich
           url: about/
           weight: 3
-        - name: Impressum
-          url: impress/
+        - name: Legal
+          url: legal/
           weight: 4
     params:
       homeInfoParams:
