@@ -20,6 +20,24 @@ outputs:
         - HTML
         - RSS
 
+menu:
+  main:
+    - name: Blog
+      url: blog/
+      weight: 1
+    - name: Projects
+      url: projects/
+      weight: 2
+    - name: Services
+      url: services/
+      weight: 3
+    - name: About
+      url: about/
+      weight: 4
+    - name: Impress
+      url: impress/
+      weight: 5
+
 params:
     env: production
     disableFingerprinting: true
@@ -37,6 +55,11 @@ params:
     ShowToc: true
     # comments: false
     images: ["papermod-cover.png"]
+
+    homeInfoParams:
+        Title: "Welcome on my site!"
+        Content: >
+          I am Torben a 21 years old sysadmin and privacy activist from Germany.
 
     socialIcons:
         - name: github
@@ -67,59 +90,3 @@ markup:
     noHl: false
     tabWidth: 4
     style: dracula
-
-DefaultContentLanguage: en
-languages:
-  en:
-    languageCode: "en-us"
-    contentDir: "content/en"
-    weight: 1
-    menu:
-      main:
-        - name: Blog
-          url: blog/
-          weight: 1
-        - name: Projects
-          url: projects/
-          weight: 2
-        - name: Services
-          url: services/
-          weight: 3
-        - name: About
-          url: about/
-          weight: 4
-        - name: Impress
-          url: impress/
-          weight: 5
-    params:
-      homeInfoParams:
-        Title: "Welcome on my site!"
-        Content: >
-          I am Torben a 21 years old sysadmin and privacy activist from Germany.
-
-  de:
-    languageCode: "de"
-    contentDir: "content/de"
-    weight: 1
-    menu:
-      main:
-        - name: Blog
-          url: blog/
-          weight: 1
-        - name: Projekte
-          url: projects/
-          weight: 2
-        - name: Services
-          url: services/
-          weight: 3
-        - name: Über mich
-          url: about/
-          weight: 4
-        - name: Impressum
-          url: impress/
-          weight: 5
-    params:
-      homeInfoParams:
-        Title: "Willkommen auf meiner Website!"
-        Content: >
-          Hallo, ich bin Torben, ein 21-jähriger Systemadministrator und Datenschutzaktivist aus Deutschland.
