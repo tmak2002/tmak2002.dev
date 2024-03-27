@@ -23,7 +23,7 @@ outputs:
 params:
     env: production
     disableFingerprinting: true
-      # description: "Torben Kahnert, Android and Linux Enthusiast from Germany."
+    description: "Torben Kahnert, Android and Linux Enthusiast from Germany."
     author: Torben Kahnert
 
     defaultTheme: auto
@@ -37,11 +37,6 @@ params:
     ShowToc: true
     # comments: false
     images: ["papermod-cover.png"]
-
-    homeInfoParams:
-        Title: "Welcome on my site!"
-        Content: >
-          I am Torben a 21 years old sysadmin and privacy activist from Germany.
 
     socialIcons:
         - name: github
