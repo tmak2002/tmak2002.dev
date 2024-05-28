@@ -1,0 +1,93 @@
+baseURL: "https://tmak2002.dev"
+languageCode: 'en-us'
+title: Torben Kahnert
+paginate: 5
+theme: ["PaperMod", "hugo-redirect"]
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+outputs:
+    home:
+        - HTML
+        - RSS
+
+menu:
+  main:
+    - name: Blog
+      url: blog/
+      weight: 1
+    - name: Projects
+      url: projects/
+      weight: 2
+    - name: Services
+      url: services/
+      weight: 3
+    - name: About
+      url: about/
+      weight: 4
+    - name: Impress
+      url: impress/
+      weight: 5
+
+params:
+    env: production
+    disableFingerprinting: true
+    description: "Torben Kahnert, Android and Linux Enthusiast from Germany."
+    author: Torben Kahnert
+
+    defaultTheme: auto
+    ShowShareButtons: false
+    ShowReadingTime: true
+    # disableSpecial1stPost: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: true
+    ShowToc: true
+    # comments: false
+    images: ["papermod-cover.png"]
+
+    homeInfoParams:
+        Title: "Welcome on my site!"
+        Content: >
+          I am Torben a 21 years old sysadmin and privacy activist from Germany.
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/tmak2002"
+        - name: bluesky
+          url: https://bsky.app/profile/tmak2002.dev
+        - name: email
+          url: mailto:torben@tmak2002.dev
+        - name: key
+          url: "pub-key.txt"
+        - name: buymeacoffee
+          url: https://liberapay.com/tmak2002/
+        - name: rss
+          url: "index.xml"
+
+markup:
+  tableOfContents:
+    endLevel: 6
+  highlight:
+    anchorLineNos: false
+    codeFences: true
+    guessSyntax: true
+    hl_Lines: ""
+    hl_inline: false
+    lineAnchors: ""
+    lineNoStart: 1
+    noClasses: false
+    noHl: false
+    tabWidth: 4
+    style: dracula

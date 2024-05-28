@@ -1,0 +1,33 @@
+name: Deploy
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@a5ac7e51b41094c92402da3b24376905380afc29 # v4
+        with:
+          submodules: true
+
+      - name: Setup hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.125.7'
+          extended: true
+
+      - name: Build
+        run: hugo --gc --minify
+
+      - name: Upload
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: tmak2002.dev
+          username: ${{ secrets.USER }}
+          password: ${{ secrets.PASS }}
+          protocol: ftps
+          local-dir: ./public/
+          server-dir: tmak2002.dev/
