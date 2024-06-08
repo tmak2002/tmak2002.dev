@@ -1,14 +1,13 @@
 ---
 title: "My personal GrapheneOS Setup"
 date: 2023-03-31T17:14:11Z
-description: "Here I share my GrapheneOS setup."
+summary: "Here I share my GrapheneOS setup."
 tags: ["GrapheneOS", "GrapheneOS Setup", "Pixel 6"]
 cover:
     image: "grapheneos.webp"
     alt: "GrapheneOS Logo"
 ---
 Here I share my GrapheneOS setup for my Google Pixel 6.
- <!--more-->
 # Install GrapheneOS
 - [Web install guide](https://grapheneos.org/install/web)
 - [CLI install guide](https://grapheneos.org/install/cli)
