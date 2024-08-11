@@ -6,7 +6,7 @@ robotsNoIndex: true
 
 This page is currently only available in German.
 
-# Angaben gemäß § 5 TMG
+# Angaben gemäß § 5 DDG
 Torben Kahnert  
 Königsberger Straße 35  
 25355 Barmstedt  
