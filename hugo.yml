@@ -71,8 +71,8 @@ params:
           url: mailto:torben@tmak2002.dev
         - name: key
           url: "pub-key.txt"
-        - name: buymeacoffee
-          url: https://liberapay.com/tmak2002/
+        - name: keyoxide
+          url: https://keyoxide.org/4BD4969FC5B3296560BB2350C47EDC2126707BF3
         - name: rss
           url: "index.xml"
 
