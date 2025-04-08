@@ -1,7 +1,6 @@
 baseURL: "https://tmak2002.dev"
 languageCode: 'en-us'
 title: Torben Kahnert
-paginate: 5
 theme: ["PaperMod", "hugo-redirect"]
 
 enableInlineShortcodes: true
@@ -11,6 +10,9 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
+
+pagination:
+  pagerSize: 5
 
 minify:
     disableXML: true
