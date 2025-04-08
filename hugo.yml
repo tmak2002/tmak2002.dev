@@ -81,6 +81,9 @@ params:
 markup:
   tableOfContents:
     endLevel: 6
+  goldmark:
+    renderer:
+      unsafe: true
   highlight:
     anchorLineNos: false
     codeFences: true
