@@ -5,7 +5,7 @@ showtoc: false
 ---
 # Who I am
 
-Hi, I'm Torben, a 22-year-old sysadmin from Germany.
+Hi, I'm Torben, a 22-year-old SysAdmin from Germany.
 
 # What I do
 
@@ -18,7 +18,5 @@ Hi, I'm Torben, a 22-year-old sysadmin from Germany.
     * Books
     * Hiking
 
-# My goals
-
-* I want to work as a system administrator.
-* I also want to learn Japanese and live in Japan someday.
+# My Goals
+Create a better world for everyone.

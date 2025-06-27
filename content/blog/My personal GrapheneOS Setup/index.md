@@ -63,12 +63,11 @@ Here I share my GrapheneOS setup for my Google Pixel 6.
 - [AnkiDroid](https://github.com/ankidroid/Anki-Android) ~ Flashcards App
 - [DAVx⁵](https://github.com/bitfireAT/davx5-ose) ~ CalDAV/CardDAV/WebDAV sync
 - [Etar](https://github.com/Etar-Group/Etar-Calendar) - Calendar
-- [jtxBoard](https://github.com/TechbeeAT/jtxBoard) ~ jtx Board allows you to manage your Journals (like meeting minutes), Notes and Tasks in one Android app.
 - [K-9 Mail](https://github.com/thundernest/k-9) ~ Mail client
 - [KeePassDX](https://github.com/Kunzisoft/KeePassDX) ~ Password manager
 - [Molly Foss](https://github.com/mollyim/mollyim-android) ~ Hardened Signal client
 - [Obtainium](https://github.com/ImranR98/Obtainium) ~ Get Android App Updates Directly From the Source.
-- [Syncthing](https://syncthing.net/) ~ File Sync
+- [Syncthing Fork](https://github.com/Catfriend1/syncthing-android) ~ File Sync
 ### Banking
 - default apps
 - [N26](https://play.google.com/store/apps/details?id=de.number26.android) ~ Banking

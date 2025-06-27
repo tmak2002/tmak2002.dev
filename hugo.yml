@@ -62,7 +62,7 @@ params:
     homeInfoParams:
         Title: "Welcome on my site!"
         Content: >
-          I am Torben a 22 years old sysadmin from Germany.
+          I am Torben a 22 years old SysAdmin from Germany.
 
     socialIcons:
         - name: github
