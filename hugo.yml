@@ -31,9 +31,6 @@ menu:
     - name: Projects
       url: projects/
       weight: 2
-    - name: Services
-      url: services/
-      weight: 3
     - name: About
       url: about/
       weight: 4
