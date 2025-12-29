@@ -64,8 +64,6 @@ params:
     socialIcons:
         - name: github
           url: "https://github.com/tmak2002"
-        - name: bluesky
-          url: https://bsky.app/profile/tmak2002.dev
         - name: email
           url: mailto:torben@tmak2002.dev
         - name: key
