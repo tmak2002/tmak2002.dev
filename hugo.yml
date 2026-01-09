@@ -34,8 +34,8 @@ menu:
     - name: About
       url: about/
       weight: 4
-    - name: Impress
-      url: impress/
+    - name: Imprint
+      url: imprint/
       weight: 5
 
 params:

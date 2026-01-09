@@ -1,5 +1,5 @@
 ---
-title: "Impress"
+title: "Imprint"
 showtoc: false
 robotsNoIndex: true
 ---
